@@ -1,5 +1,5 @@
-# 💫 About Me:
-🐍I'm currently learning python
+# About Me:
+Learning ML right now
 
 
 ## 🌐 Socials:
